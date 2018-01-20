@@ -10,7 +10,7 @@
 <head>
     <title>The liders</title>
 </head>
-<body> 
+<body>
 <div id="header">
     A place for website's main content
 </div>
