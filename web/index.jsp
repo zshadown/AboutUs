@@ -11,9 +11,10 @@
   <head>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>The liders</title>
+    <title>The liders 1.1</title>
   </head>
   <body>
-  $END$
+  <a href="molano.jsp">Ver pagina: Manuel Olano</a>
+  <a href="O.jsp">Ver pagina: Jefferson Orbegoso</a>
   </body>
 </html>
