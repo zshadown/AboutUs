@@ -9,11 +9,12 @@
 <html>
 <head>
     <title>The Liders</title>
+    <link rel="stylesheet" href="css/stile.css">
 </head>
 <body>
     <div class="top"> </div>
     <div class="body">
-        <h1>Manuel Olano Napa</h1>
+        <div class="nombre"><h1>Manuel Olano Napa</h1></div>
         <h2>Ingenieria de Sistemas</h2>
         <h3>Ciclo: 10</h3>
     </div>

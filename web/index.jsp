@@ -14,8 +14,8 @@
     <title>The liders 1.1</title>
   </head>
   <body>
-  <a href="molano.jsp">Ver pagina: Manuel Olano</a>
-  <a href="O.jsp">Ver pagina: Jefferson Orbegoso</a>
-  <a href="Aranibar.jsp">Ver pagina: Gerson Aranibar</a>
+  <a href="molano.jsp">Ver pagina: Manuel Olano</a><br>
+  <a href="O.jsp">Ver pagina: Jefferson Orbegoso</a><br>
+  <a href="Aranibar.jsp">Ver pagina: Gerson Aranibar</a><br>
   </body>
 </html>
