@@ -8,15 +8,16 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>The liders</title>
+    <title>The Liders</title>
+    <link rel="stylesheet" href="css/stile.css">
 </head>
 <body>
-<div id="header">
-    A place for website's main content
+<div class="top"> </div>
+<div class="body">
+    <div class="nombre"><h1>Jefferson Orbegoso</h1></div>
+    <h2>Ingenieria de Sistemas</h2>
+    <h3>Ciclo: 10</h3>
 </div>
-<div id="main-content">
-    A place for website's main content
-</div>
-<div id="footer"> Footer information, links, etc.</div>
+<div class="bottom"></div>
 </body>
 </html>
