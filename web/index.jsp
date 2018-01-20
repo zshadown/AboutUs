@@ -15,5 +15,6 @@
   </head>
   <body>
   <a href="molano.jsp">Ver pagina: Manuel Olano</a>
+  <a href="O.jsp">Ver pagina: Jefferson Orbegoso</a>
   </body>
 </html>
